@@ -1,6 +1,6 @@
 # Solana Pipecat Twilio AI Agent
 
-This project is a FastAPI-based chatbot that integrates with Twilio to handle WebSocket connections and provide real-time communication. The project includes endpoints for starting a call and handling WebSocket connections.
+This project is a FastAPI-based chatbot that integrates with Twilio to handle WebSocket connections and provide real-time communication. The project includes endpoints for starting a call and handling WebSocket connections. Solana CLI integration will subsequently allow for an on-chain subscription based model for users to create and have their AI voice chatbots handle their costumer service calls.
 Customize the bot.py file to change the AI agent's behavior.
 This is setup to save audio recordings to the server_0_recording.wav file.
 
