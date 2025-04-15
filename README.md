@@ -105,7 +105,3 @@ python client.py -u http://localhost:8765 -c 2
 ```
 
 where `-c` allows you to create multiple concurrent clients.
-
-## Note
-
-This follows the the [Pipecat Twilio Example](https://github.com/pipecat-ai/pipecat/blob/main/examples/twilio-chatbot/README.md) repository.
