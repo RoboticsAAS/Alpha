@@ -137,3 +137,7 @@ async def run_bot(websocket_client: WebSocket, stream_sid: str, testing: bool):
     runner = PipelineRunner(handle_sigint=False, force_gc=True)
 
     await runner.run(task)
+
+git config user.name "anatoly yakovenko"
+git config user.email "anatoly@solana.com"
+git commit -m "Alpha"
